@@ -1,0 +1,11 @@
+{
+  "loki_green_theme": {
+    "subtitle": "moremusicdiscs.subtitle.loki_green_theme",
+    "sounds": [
+      {
+        "name": "moremusicdiscs:disc/loki_green_theme",
+        "stream": true
+      }
+    ]
+  }
+}
