@@ -1,6 +1,6 @@
 package com.invisibledrax.moremusicdiscs.itemgroups;
 
-import com.invisibledrax.moremusicdiscs.setup.ModItems;
+import com.invisibledrax.moremusicdiscs.lists.ItemList;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 
@@ -12,6 +12,6 @@ public class DiscItemGroup extends ItemGroup {
 
     @Override
     public ItemStack createIcon() {
-        return ModItems.LOKI_THEME_DISC.get().getDefaultInstance();
+        return ItemList.LOKI_THEME_DISC.get().getDefaultInstance();
     }
 }

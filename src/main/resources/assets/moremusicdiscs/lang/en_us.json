@@ -1,6 +1,6 @@
 {
-  "item.moremusicdiscs.loki_theme_disc": "Music Disc",
+  "item.moremusicdiscs.loki_theme_disc": "§bMusic Disc§r",
+  "item.moremusicdiscs.loki_theme_disc.desc": "",
   "moremusicdiscs.subtitle.loki_green_theme": "Loki Green Theme",
-  "item.moremusicdiscs.loki_theme_disc.desc": "Natalie Holt - Loki Green Theme",
   "itemGroup.moremusicdiscs-tab": "More Music Discs"
 }
